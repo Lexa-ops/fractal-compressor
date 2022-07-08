@@ -20,3 +20,7 @@ Or you can build project and run local testing
   python fractal-compression.py
 ```
 All images from the `test_files` folder with all quality parameters will be tested and the results will be saved to the `results.csv` file.
+# Image evolution
+
+# Test results
+All tests were completed in less than  minutes
