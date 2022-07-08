@@ -19,4 +19,4 @@ Or you can build project and run local testing
   python test_templates/compose.py
   python fractal-compression.py
 ```
-All images from the `test_files` folder with all quality parameters will be tested and the results will be saved to the `results.csv` file
+All images from the `test_files` folder with all quality parameters will be tested and the results will be saved to the `results.csv` file.
